@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+# a module that adds to numbers together
+
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("enter second number: "))
+
+print(num1 + num2)
